@@ -1,0 +1,49 @@
+.main{
+    height: 400px;
+    width: 20%;
+    background-color:aqua;
+    text-align: center;
+    margin-left: 20%;
+    border-radius: 20px;
+    background-image: linear-gradient(#333, #333 50%, #410404 100%);
+    box-shadow: 10px 10px 15px 5px rgba(11, 1, 7, 0.7);
+}
+#clear{
+    width: 120px;
+    background-color: rgb(255, 111, 0);
+    color: white;
+    height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+.formstyle{
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+}
+input{
+    width: 50px;
+    margin: auto;
+    height: 30px;
+    /* color: red; */
+    background-color: rgb(32, 2, 2);
+    color: white;
+border-radius: 10px;
+font-size: 20px;
+font-weight: bold;
+}
+#d1{
+    width: 150px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    /* border-radius: 20px; */
+    margin-top: 20px;
+    background-color: azure;
+}
+#eq{
+    background-color: rgba(221, 40, 12, 0.979);
+}
